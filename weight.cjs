@@ -7,7 +7,7 @@ function calculateWeight(value, fromWeight, toWeight) {
         return value / 1000;
     } else if (fromWeight === 'g' && toWeight === 'mg') {
         return value * 1000;
-    } else if (fromWeight === 'mm' && toWeight === 'g') {
+    } else if (fromWeight === 'mg' && toWeight === 'g') {
         return value / 1000;
     } else if (fromWeight === 'kg' && toWeight === 'lb') {
         return value * 2.2;
