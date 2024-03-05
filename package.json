@@ -1,6 +1,6 @@
 {
   "name": "sc-unit-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package for converting units",
   "main": "index.cjs",
   "scripts": {
