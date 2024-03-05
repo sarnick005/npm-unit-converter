@@ -5,7 +5,7 @@
 To use unit converter...
 
 ```bash
-  $ npm install sc-unit-converter
+   npm install sc-unit-converter
 ```
 ### 2. Getting started
 ```bash
